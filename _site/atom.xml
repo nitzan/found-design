@@ -4,7 +4,7 @@
  <title>Found Design</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-20T10:27:45-05:00</updated>
+ <updated>2016-11-20T23:34:56-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -17,7 +17,12 @@
    <link href="http://localhost:4000/2016/11/20/introduction/"/>
    <updated>2016-11-20T00:00:00-05:00</updated>
    <id>http://localhost:4000/2016/11/20/introduction</id>
-   <content type="html">&lt;p&gt;Coming soon&lt;/p&gt;
+   <content type="html">&lt;p&gt;Announcing Found Design.&lt;/p&gt;
+
+&lt;p&gt;As part of Extended Modern Comfort this project will publicly explore and document an object scouted during an October trip.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/d44000wxa.JPG&quot; alt=&quot;JBL Paragon&quot; title=&quot;JBL Paragon&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;JBL Paragon&lt;/figcaption&gt;
 </content>
  </entry>
  
