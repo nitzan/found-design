@@ -541,6 +541,11 @@ body {
   font-family: 'Folio W01 Light';
   font-family: 'URW Grotesk Pro Light W01 Rg'; }
 
+h1 a, a {
+  color: black; }
+  h1 a::hover, a::hover {
+    text-decoration: none; }
+
 h3.masthead-title {
   font-family: 'HoofLine Med Obl W00 Regular'; }
   h3.masthead-title small {

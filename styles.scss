@@ -16,7 +16,7 @@ font-family:'URW Grotesk Pro Light W01 Rg';
 
 }
 
-// h1, h3 {font-family:'HoofLine Med Obl W00 Regular';}
+h1 a, a {color:black; &::hover {text-decoration: none;}}
 h3.masthead-title {font-family:'HoofLine Med Obl W00 Regular';small{font-family:'URW Grotesk Pro Light W01 Rg';font-size: 12px;}}
 .post-date {font-family:'Folio W01 Light';font-family:'HoofBrush Rose W00 Regular';font-family:'HoofLine Med Obl W00 Regular';}
 
